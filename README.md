@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [FRIDAY - a desktop voice assistant using python](https://github.com/EUFORIS/FRIDAY---Desktop-Voice-Assistant-Using-Python)
 
-- 🌱 I’m currently learning **Java, SQL**
+- 🌱 I’m currently learning **Python, Web Dev**
 
 - 📫 How to reach me **hashimshafeeque.m@gmail.com**
 
